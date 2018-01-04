@@ -1,2 +1,4 @@
-# r-dewey
-Set up R host with OpenVPN, r, r-base, Apache Superset
+# deweyr
+
+TODO: Enter the cookbook description here.
+
